@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\Studies\6thSemester\OpenCV_Daily_Practices\Cplusplus\CarCounter\CMakeFiles\5975839db51a021d273e1e15a29d7e87\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BC00BC04-2646-3C29-9F9B-2E1DE6777514}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

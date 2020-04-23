@@ -1,0 +1,16 @@
+﻿  ObjectDetector.cpp
+G:\Studies\6thSemester\OpenCV_Daily_Practices\Cplusplus\CarCounter\ObjectDetector.cpp(49,24): warning C4244: 'initializing': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+G:\Studies\6thSemester\OpenCV_Daily_Practices\Cplusplus\CarCounter\ObjectDetector.cpp(51,58): warning C4244: 'argument': conversion from '_Tp' to 'float', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+G:\Studies\6thSemester\OpenCV_Daily_Practices\Cplusplus\CarCounter\ObjectDetector.cpp(54,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  carCounter.cpp
+  main.cpp
+  Generating Code...
+  CarCounter.vcxproj -> G:\Studies\6thSemester\OpenCV_Daily_Practices\Cplusplus\CarCounter\Debug\CarCounter.exe
