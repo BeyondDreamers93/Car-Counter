@@ -1,7 +1,5 @@
 # Car-Counter
 
-Object Detection Using HAAR Cascade Classifier
-
 Usage: CarCounter.exe <Classifier_Path> <Video_Path>
 
 Note: CarCounter.exe can be found in Debug folder
