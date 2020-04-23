@@ -2,7 +2,7 @@
 
 Usage: CarCounter.exe <Classifier_Path> <Video_Path>
 
-The executable, HAAR cascade and Video can be found in Debug Folder.
+The Executable, HAAR cascade and Video can be found in Debug Folder.
 
 For Example: CarCounter.exe haarcascade_car.xml cars.avi
 
